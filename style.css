@@ -27,7 +27,7 @@ header {
 
 article {
     position: relative;
-    background-color: #EEEEEE;
+    /* background-color: #EEEEEE; */
     border-radius: 5px;
     margin-top: 5px;
     margin-bottom: 30px;
